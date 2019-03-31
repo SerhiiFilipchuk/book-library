@@ -1,0 +1,24 @@
+.jq-stars {
+    display: inline-block;
+  }
+  
+  .jq-star {
+    width: 100px;
+    height: 150px;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .jq-star-svg {
+    padding-left: 3px;
+    width: 100%;
+    height: 100% ;
+  }
+
+  
+  .jq-star-svg path {
+    /* stroke: #000; */
+    stroke-linejoin: round;
+  }
+  
+  
